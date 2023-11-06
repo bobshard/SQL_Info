@@ -1,34 +1,5 @@
 # Info21 v1.0
 
-Data analysis and statistics for School 21.
-
-
-## Contents
-
-1. [Chapter I](#chapter-i) \
-    1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-    2.1. [General rules](#general-rules) \
-    2.2. [Logical view of database model](#logical-view-of-database-model)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1. Database creation](#part-1-creating-a-database)  
-   3.2. [Part 2. Changing data](#part-2-changing-data)  
-   3.3. [Part 3. Getting data](#part-3-getting-data)  
-   3.4. [Bonus. Part 4. Metadata](#bonus-part-4-metadata)
-
-## Chapter I
-
-![Info21 v1.0](misc/images/SQL2_Info21_v1.0.jpg)
-
-Chuck decided to work from home. Next to him on the table was a warm, freshly brewed cup of coffee with a thin stream of steam rising over it. Both monitors had the OS boot screen on and a few moments later the welcome screen popped up. Chuck lazily reached for his mouse. He clicked it and got to the directory with the work files. Although he works in the finance department, today he had a completely different task: to help implement another idea that came from above, since he is one of those few employees who are somehow familiar with SQL. \
-Structured Query Language, or as its creators once claimed - a language in which "every housewife would be able to write a database query". But the housewives Chuck knew from the office couldn't cope with it, so he was usually the one who had the honor of handling database-related tasks. His past experience as a programmer helped. After all, he had spent four years at the university for a reason.
- 
-`-` "First, I should create the database," Chuck thought to himself. - "Entities with parameters were already written down somewhere, all that is left is to figure out relations. A third normal form would definitely do it." \
-Chuck reached for the paper, but out of the corner of his eye he noticed the printed financial statements for the past period resting on a table. \
-`-` "I’ll deal with them later, this first. And remembering SQL on such an easy task wouldn't be a waste of time." \
-After sipping his coffee first, he finally got to the paper. \
-`-` "Okay, let's see what we can do here", Chuck began his musings.
-
 ## Introduction
 
 In this project, you will have to put your knowledge of SQL into practice. 
