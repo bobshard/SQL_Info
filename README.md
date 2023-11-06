@@ -3,7 +3,7 @@
 ## Introduction
 
 In this project, you will have to put your knowledge of SQL into practice. 
-You will need to create a database with data about School 21 and write procedures and functions to retrieve information, as well as procedures and triggers to change it.
+You will need to create a database with data about School and write procedures and functions to retrieve information, as well as procedures and triggers to change it.
 
 
 ## Chapter II
